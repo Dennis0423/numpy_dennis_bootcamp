@@ -91,3 +91,5 @@ Modificación desde GitHub Desktop
 =======
 Modificación desde GitHub desktop
 >>>>>>> Stashed changes
+
+Segunda modificación desde GitHub
