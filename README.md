@@ -93,3 +93,5 @@ Modificación desde GitHub desktop
 >>>>>>> Stashed changes
 
 Segunda modificación desde GitHub
+
+Primer modificacion desde la terminal
