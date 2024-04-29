@@ -85,3 +85,9 @@ guide](https://opensource.guide/how-to-contribute/) helps explain why, what,
 and how to successfully get involved.
 
 ¡Estoy feliz de hacer mi primera edición!
+
+<<<<<<< Updated upstream
+Modificación desde GitHub Desktop
+=======
+Modificación desde GitHub desktop
+>>>>>>> Stashed changes
